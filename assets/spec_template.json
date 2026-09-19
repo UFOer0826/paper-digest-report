@@ -1,0 +1,19 @@
+{
+  "title_cn": "中文标题",
+  "title_en": "English Title",
+  "journal": "期刊全名",
+  "year": "年份",
+  "doi": "DOI",
+  "authors": ["一作（中文音译 原名）", "二作", "三作"],
+  "affiliations": ["单位1中文（英文原名）", "单位2"],
+  "data_methods": "数据：……。\n方法：……。",
+  "figures": [
+    {
+      "path": "C:/Users/AcTor/WorkBuddy/2026-09-20-00-56-21/paper_pipeline/work/<短名>/figs/xxx.jpg",
+      "caption": "图1 中文图注概括",
+      "note": "该图展示的要点与结论（含关键数字）。"
+    }
+  ],
+  "figures_note": "未能获取原文图件时填写此说明，figures 留空数组。",
+  "conclusions": ["结论1（含关键数字）", "结论2", "结论3", "结论4"]
+}
